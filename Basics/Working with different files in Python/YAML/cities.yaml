@@ -1,0 +1,18 @@
+cities:
+  city1: Amritsar
+  city2: Jalandhar
+  city3: Chandigarh
+  city4: New Delhi
+  other_cities:
+    - New York
+    - Toronto
+    - Montreal
+  city5:
+    - California
+    - Los Angeles
+    - city6:
+        - Mumbai
+        - Paris
+
+
+# "-" represents a list, rest all represents a dictionary
